@@ -21,7 +21,7 @@ const IndexPage = ({ data }) => {
         title={withSuffix ? `${seoTitle} - ${seoTitleSuffix}` : `${seoTitle}`}
       />
       <Hero content={data.hero.edges} />
-      {/* Articles is populated via Medium RSS Feed fetch */}
+      {/* Articles is populated via Medium RSS Feed fetch, removed until later*/}
       {/* <Articles /> */}
       <About content={data.about.edges} />
       <Interests content={data.interests.edges} />
