@@ -26,15 +26,15 @@ module.exports = {
     },
     {
       name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
+      url: "https://jyk524.medium.com/",
     },
     {
       name: "Github",
       url: "https://github.com/jyk524",
     },
     {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+      name: "Youtube",
+      url: "https://www.youtube.com/jyk524",
     },
   ],
 
